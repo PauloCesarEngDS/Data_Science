@@ -10,7 +10,7 @@
 ## Projetos:
 
 * **Breve análise de dados do Airbnb - Cidade Bruxelas:** 
-* **Rápida análise sobre anúncios de veículos seminovos:** 
+* **Rápida análise sobre anúncios de veículos seminovos:** https://bit.ly/3kzdtzk
 
 
 
