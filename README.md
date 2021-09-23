@@ -7,6 +7,13 @@
 # Paulo César
 <sub>*Engenheiro de Produção e Cientista de Dados* </sub>
 
+## Projetos:
+
+* **Breve análise de dados do Airbnb - Cidade Bruxelas:** 
+* **Rápida análise sobre anúncios de veículos seminovos:** 
+
+
+
 # EM CONSTRUÇÃO
 
 ---
