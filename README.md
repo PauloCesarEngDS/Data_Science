@@ -7,13 +7,14 @@
 # Paulo César
 <sub>*Engenheiro de Produção e Cientista de Dados* </sub>
 
+**Links:**
+* [LinkedIn](https://www.linkedin.com/in/paulo-cesar-silva-pmp/)
+* [Lattes](http://lattes.cnpq.br/3679877417150971)
+* [Medium](https://medium.com/@paulocesar.engds)
+
 ## Projetos:
 
-* **Breve análise de dados do Airbnb - Cidade Bruxelas:** 
+* **Breve análise de dados do Airbnb - Cidade Bruxelas:** https://bit.ly/39zndmI
 * **Rápida análise sobre anúncios de veículos seminovos:** https://bit.ly/3kzdtzk
-
-
-
-# EM CONSTRUÇÃO
 
 ---
