@@ -5,7 +5,7 @@
 </p>
 
 # Paulo César
-<sub>*Engenheiro de Produção* </sub>
+<sub>*Engenheiro de Produção e Cientista de Dados* </sub>
 
 # EM CONSTRUÇÃO
 
